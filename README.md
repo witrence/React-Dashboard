@@ -1,7 +1,6 @@
 React-Dashboard Webpage using REACT.
 
 
-NOTE: Project Still Ongoing... 
 
 
 SCREENSHOTS : 
@@ -15,3 +14,8 @@ SCREENSHOTS :
 
 
 ![image](https://github.com/witrence/React-Dashboard/assets/48147336/9a7fb549-9f76-49d0-90fe-ac0497f7bc9d)
+
+
+
+
+NOTE: Project Still Ongoing... 
